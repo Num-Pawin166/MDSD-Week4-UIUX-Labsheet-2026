@@ -940,8 +940,12 @@ flutter run
 - [✓] FAB แสดง SnackBar เมื่อถูกคลิก
 
 **แก้ไขเปลี่ยนแปลง App Bar ให้แสดง คำว่า "Dev by" ตามด้วยชื่อนักศึกษา** แล้วบันทึกรูปผลการทดลอง
-```image
-บันทึกรูปที่นี่
+```
+
+
+https://github.com/user-attachments/assets/327068ac-76cf-44ee-b12f-efec630c00b0
+
+
 ``` 
 ---
 
